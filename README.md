@@ -1,7 +1,11 @@
 swiftQRCode
 ===========
 
-user swift build QRCode Scan( user zbar sdk &amp; iOS7 QRCode Scan
+user swift build QRCode Scan
+
+user zbar sdk &amp; iOS7 QRCode Scan
+
+Just test Swift build like Objective-C app.
 
 使用Swift语言实现的简单QRCode二维码和条型码扫描工具。集成了ZbarSDK，
 
